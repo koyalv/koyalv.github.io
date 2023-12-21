@@ -1,0 +1,839 @@
+.component11-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.component11-component11 {
+  width: 100%;
+  height: 4844px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.component11-frame2 {
+  top: 0px;
+  left: 0px;
+  width: 1666px;
+  height: 4843.5478515625px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.component11-rectangle1 {
+  top: 181.35104370117188px;
+  left: 0.8677083253860474px;
+  width: 1747px;
+  height: 762px;
+  position: absolute;
+  border-radius: 0 0 26.03125px 26.03125px;
+}
+.component11-text {
+  top: 324.5229187011719px;
+  left: 1042.11767578125px;
+  color: rgba(255, 255, 255, 1);
+  width: 215px;
+  height: auto;
+  position: absolute;
+  font-size: 31.237499237060547px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-text02 {
+  top: 1205.246826171875px;
+  left: 734.948974609375px;
+  color: rgba(0, 0, 0, 1);
+  width: 373px;
+  height: auto;
+  position: absolute;
+  font-size: 31.237499237060547px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-text04 {
+  top: 1798.7593994140625px;
+  left: 183.95416259765625px;
+  color: rgba(0, 0, 0, 1);
+  width: 373px;
+  height: auto;
+  position: absolute;
+  font-size: 31.237499237060547px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-text06 {
+  top: 2357.5634765625px;
+  left: 747.0968627929688px;
+  color: rgba(0, 0, 0, 1);
+  width: 373px;
+  height: auto;
+  position: absolute;
+  font-size: 31.237499237060547px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-rectangle2 {
+  top: 620.4114379882812px;
+  left: 955.3468627929688px;
+  width: 403px;
+  height: 75px;
+  position: absolute;
+  border-radius: 7.809374809265137px;
+}
+.component11-text08 {
+  top: 645.5750122070312px;
+  left: 1022.160400390625px;
+  color: rgba(0, 0, 0, 0.5699999928474426);
+  width: 272px;
+  height: auto;
+  position: absolute;
+  font-size: 20.825000762939453px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-instagram {
+  top: 342.7447814941406px;
+  left: 330.59686279296875px;
+  width: 22px;
+  height: 21.69270896911621px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 0, 0, 0);
+}
+.component11-text10 {
+  top: 419.9708251953125px;
+  left: 852.957275390625px;
+  color: rgba(255, 255, 255, 1);
+  width: 671px;
+  height: auto;
+  position: absolute;
+  font-size: 20.825000762939453px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-rectangle6 {
+  top: 270.7250061035156px;
+  left: 150.9812469482422px;
+  width: 583px;
+  height: 559px;
+  position: absolute;
+  border-radius: 279.4020690917969px;
+}
+.component11-rectangle5 {
+  top: -3.4708333015441895px;
+  left: 0px;
+  width: 1669px;
+  height: 187px;
+  position: absolute;
+}
+.component11-text12 {
+  top: 56.40104293823242px;
+  left: 177.0124969482422px;
+  color: rgba(0, 0, 0, 1);
+  width: 531px;
+  height: auto;
+  position: absolute;
+  font-size: 55.53333282470703px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Pattaya;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-text14 {
+  top: 81.56458282470703px;
+  left: 997.8645629882812px;
+  color: rgba(255, 255, 255, 1);
+  width: 86px;
+  height: auto;
+  position: absolute;
+  font-size: 20.825000762939453px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-text16 {
+  top: 81.56458282470703px;
+  left: 1166.199951171875px;
+  color: rgba(255, 255, 255, 1);
+  width: 110px;
+  height: auto;
+  position: absolute;
+  font-size: 20.825000762939453px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-text18 {
+  top: 81.56458282470703px;
+  left: 1357.9635009765625px;
+  color: rgba(255, 255, 255, 1);
+  width: 118px;
+  height: auto;
+  position: absolute;
+  font-size: 20.825000762939453px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-text20 {
+  top: 81.56458282470703px;
+  left: 834.7354125976562px;
+  color: rgba(255, 255, 255, 1);
+  width: 79px;
+  height: auto;
+  position: absolute;
+  font-size: 20.825000762939453px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-search {
+  top: 87.63854217529297px;
+  left: 1553.1978759765625px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.component11-vector {
+  top: 1339.236572265625px;
+  left: 1082.9000244140625px;
+  width: 17px;
+  height: 34px;
+  position: absolute;
+}
+.component11-vector01 {
+  top: 1337.769775390625px;
+  left: 1128.8885498046875px;
+  width: 21px;
+  height: 35px;
+  position: absolute;
+}
+.component11-vector02 {
+  top: 1343.6370849609375px;
+  left: 1233.0135498046875px;
+  width: 22px;
+  height: 30px;
+  position: absolute;
+}
+.component11-vector03 {
+  top: 1340.7034912109375px;
+  left: 1185.28955078125px;
+  width: 19px;
+  height: 32px;
+  position: absolute;
+}
+.component11-text22 {
+  top: 1297.2239990234375px;
+  left: 734.948974609375px;
+  color: rgba(0, 0, 0, 1);
+  width: 671px;
+  height: auto;
+  position: absolute;
+  font-size: 15.618749618530273px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-text24 {
+  top: 1884.6624755859375px;
+  left: 183.95416259765625px;
+  color: rgba(0, 0, 0, 1);
+  width: 671px;
+  height: auto;
+  position: absolute;
+  font-size: 15.618749618530273px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-text26 {
+  top: 2449.54052734375px;
+  left: 747.0968627929688px;
+  color: rgba(0, 0, 0, 1);
+  width: 671px;
+  height: auto;
+  position: absolute;
+  font-size: 15.618749618530273px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-rectangle7 {
+  top: 1049.9271240234375px;
+  left: 86.77083587646484px;
+  width: 576px;
+  height: 528px;
+  position: absolute;
+}
+.component11-rectangle8 {
+  top: 1620.011474609375px;
+  left: 911.9614868164062px;
+  width: 576px;
+  height: 528px;
+  position: absolute;
+}
+.component11-rectangle9 {
+  top: 2184.8896484375px;
+  left: 86.77083587646484px;
+  width: 576px;
+  height: 528px;
+  position: absolute;
+}
+.component11-rectangle10 {
+  top: 1193.0989990234375px;
+  left: 1206.1146240234375px;
+  width: 176px;
+  height: 64px;
+  position: absolute;
+  border-radius: 8.677083015441895px;
+}
+.component11-rectangle12 {
+  top: 2348.886474609375px;
+  left: 1219.1302490234375px;
+  width: 176px;
+  height: 64px;
+  position: absolute;
+  border-radius: 8.677083015441895px;
+}
+.component11-rectangle11 {
+  top: 1790.082275390625px;
+  left: 646.4426879882812px;
+  width: 176px;
+  height: 64px;
+  position: absolute;
+  border-radius: 8.677083015441895px;
+}
+.component11-text28 {
+  top: 1201.7760009765625px;
+  left: 1243.426025390625px;
+  color: rgba(255, 255, 255, 1);
+  width: 102px;
+  height: auto;
+  position: absolute;
+  font-size: 31.237499237060547px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-text30 {
+  top: 2357.5634765625px;
+  left: 1256.441650390625px;
+  color: rgba(255, 255, 255, 1);
+  width: 102px;
+  height: auto;
+  position: absolute;
+  font-size: 31.237499237060547px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-text32 {
+  top: 1798.7593994140625px;
+  left: 683.754150390625px;
+  color: rgba(255, 255, 255, 1);
+  width: 102px;
+  height: auto;
+  position: absolute;
+  font-size: 31.237499237060547px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-rectangle13 {
+  top: 2886.86572265625px;
+  left: 0px;
+  width: 1667px;
+  height: 672px;
+  position: absolute;
+}
+.component11-rectangle14 {
+  top: 2958.885498046875px;
+  left: 86.77083587646484px;
+  width: 712px;
+  height: 518px;
+  position: absolute;
+}
+.component11-rectangle16 {
+  top: 2958.885498046875px;
+  left: 861.6343994140625px;
+  width: 712px;
+  height: 518px;
+  position: absolute;
+}
+.component11-text34 {
+  top: 3043.05322265625px;
+  left: 294.15313720703125px;
+  color: rgba(0, 0, 0, 1);
+  width: 373px;
+  height: auto;
+  position: absolute;
+  font-size: 31.237499237060547px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-text36 {
+  top: 3745.89697265625px;
+  left: 539.714599609375px;
+  color: rgba(0, 0, 0, 1);
+  width: 644px;
+  height: auto;
+  position: absolute;
+  font-size: 31.237499237060547px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-text38 {
+  top: 3043.05322265625px;
+  left: 1044.7208251953125px;
+  color: rgba(0, 0, 0, 1);
+  width: 373px;
+  height: auto;
+  position: absolute;
+  font-size: 31.237499237060547px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-text40 {
+  top: 3130.691650390625px;
+  left: 294.15313720703125px;
+  color: rgba(0, 0, 0, 1);
+  width: 369px;
+  height: auto;
+  position: absolute;
+  font-size: 15.618749618530273px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-text42 {
+  top: 3113.33740234375px;
+  left: 1033.440673828125px;
+  color: rgba(0, 0, 0, 1);
+  width: 369px;
+  height: auto;
+  position: absolute;
+  font-size: 15.618749618530273px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-rectangle15 {
+  top: 3299.027099609375px;
+  left: 294.15313720703125px;
+  width: 325px;
+  height: 84px;
+  position: absolute;
+  border-radius: 8.677083015441895px;
+}
+.component11-rectangle17 {
+  top: 3299.027099609375px;
+  left: 1033.440673828125px;
+  width: 372px;
+  height: 84px;
+  position: absolute;
+  border-radius: 8.677083015441895px;
+}
+.component11-vector04 {
+  top: 3923.860107421875px;
+  left: 19.957292556762695px;
+  width: 43px;
+  height: 53px;
+  position: absolute;
+}
+.component11-text44 {
+  top: 3325.926025390625px;
+  left: 370.5114440917969px;
+  color: rgba(0, 0, 0, 1);
+  width: 169px;
+  height: auto;
+  position: absolute;
+  font-size: 20.825000762939453px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-text46 {
+  top: 3325.926025390625px;
+  left: 1133.22705078125px;
+  color: rgba(0, 0, 0, 1);
+  width: 169px;
+  height: auto;
+  position: absolute;
+  font-size: 20.825000762939453px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-text48 {
+  top: 3843.947998046875px;
+  left: 175.27708435058594px;
+  color: rgba(0, 0, 0, 1);
+  width: 1321px;
+  height: auto;
+  position: absolute;
+  font-size: 20.825000762939453px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-rectangle18 {
+  top: 4153.7197265625px;
+  left: 0px;
+  width: 1666px;
+  height: 345px;
+  position: absolute;
+}
+.component11-text50 {
+  top: 3043.05322265625px;
+  left: 294.15313720703125px;
+  color: rgba(0, 0, 0, 1);
+  width: 373px;
+  height: auto;
+  position: absolute;
+  font-size: 31.237499237060547px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-text52 {
+  top: 4219.66552734375px;
+  left: 567.4812622070312px;
+  color: rgba(255, 255, 255, 1);
+  width: 588px;
+  height: auto;
+  position: absolute;
+  font-size: 31.237499237060547px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-text54 {
+  top: 3043.05322265625px;
+  left: 294.15313720703125px;
+  color: rgba(0, 0, 0, 1);
+  width: 373px;
+  height: auto;
+  position: absolute;
+  font-size: 31.237499237060547px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component11-rectangle19 {
+  top: 4266.52197265625px;
+  left: 197.83749389648438px;
+  width: 193px;
+  height: 267px;
+  position: absolute;
+}
+.component11-rectangle23 {
+  top: 4256.97705078125px;
+  left: 1289.41455078125px;
+  width: 193px;
+  height: 269px;
+  position: absolute;
+}
+.component11-rectangle22 {
+  top: 4336.80615234375px;
+  left: 1016.0864868164062px;
+  width: 193px;
+  height: 251px;
+  position: absolute;
+}
+.component11-rectangle20 {
+  top: 4390.60400390625px;
+  left: 443.3989562988281px;
+  width: 193px;
+  height: 270px;
+  position: absolute;
+}
+.component11-rectangle21 {
+  top: 4423.5771484375px;
+  left: 742.7583618164062px;
+  width: 193px;
+  height: 269px;
+  position: absolute;
+}
+.component11-vector05 {
+  top: 724.5364379882812px;
+  left: 1077.6937255859375px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.component11-vector06 {
+  top: 724.5364379882812px;
+  left: 1128.8885498046875px;
+  width: 12px;
+  height: 22px;
+  position: absolute;
+}
+.component11-vector07 {
+  top: 724.5364379882812px;
+  left: 1165.332275390625px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.component11-vector08 {
+  top: 724.5364379882812px;
+  left: 1216.527099609375px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.component11-vector09 {
+  top: 4773.263671875px;
+  left: 757.5093994140625px;
+  width: 26px;
+  height: 26px;
+  position: absolute;
+}
+.component11-vector10 {
+  top: 4777.60205078125px;
+  left: 808.7041625976562px;
+  width: 12px;
+  height: 22px;
+  position: absolute;
+}
+.component11-vector11 {
+  top: 4773.263671875px;
+  left: 845.1478881835938px;
+  width: 26px;
+  height: 26px;
+  position: absolute;
+}
+.component11-vector12 {
+  top: 4773.263671875px;
+  left: 896.3427124023438px;
+  width: 26px;
+  height: 26px;
+  position: absolute;
+}
+.component11-rectangle24 {
+  top: 1095.0479736328125px;
+  left: 136.23020935058594px;
+  width: 478px;
+  height: 438px;
+  position: absolute;
+}
+.component11-rectangle25 {
+  top: 1671.206298828125px;
+  left: 977.0396118164062px;
+  width: 446px;
+  height: 427px;
+  position: absolute;
+}
+.component11-rectangle26 {
+  top: 2243.026123046875px;
+  left: 138.8333282470703px;
+  width: 472px;
+  height: 413px;
+  position: absolute;
+}
+.component11-ellipse1 {
+  top: 3623px;
+  left: 1546px;
+  width: 56px;
+  height: 59px;
+  position: absolute;
+  border-color: rgba(65, 38, 38, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.component11-vector13 {
+  top: 3641px;
+  left: 1563px;
+  width: 22px;
+  height: 23px;
+  position: absolute;
+}
+.component11-gofore {
+  top: 2653.923095703125px;
+  left: 320.6153564453125px;
+  width: 25px;
+  height: 25px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 0, 0, 0);
+}
+.component11-gofore1 {
+  top: 2869.142822265625px;
+  left: 187.4285888671875px;
+  width: 25px;
+  height: 25px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 0, 0, 0);
+}
+.component11-facebookf {
+  top: 2869.142822265625px;
+  left: 187.4285888671875px;
+  width: 25px;
+  height: 25px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 0, 0, 0);
+}
+.component11-instagram1 {
+  top: 2869.142822265625px;
+  left: 187.4285888671875px;
+  width: 25px;
+  height: 25px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 0, 0, 0);
+}
+.component11-twitter {
+  top: 2869.142822265625px;
+  left: 187.4285888671875px;
+  width: 25px;
+  height: 25px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 0, 0, 0);
+}
